@@ -11,11 +11,11 @@ Easily reset all monitors to default orientation (landscape).
 Logs all actions and errors to a file for debugging and tracking.
 
 ### Hotkey Mappings
-F13: Reset all monitors to the default landscape orientation (0 degrees).
-F14: Rotate Monitor 1 between landscape (0 degrees) and portrait (90 degrees).
-F15: Rotate Monitor 2 between landscape (0 degrees) and portrait (90 degrees).
-F16: Rotate Monitor 3 between landscape (0 degrees) and portrait (90 degrees).
-F17: Rotate Monitor 4 between landscape (0 degrees) and portrait (90 degrees).
+- F13: Reset all monitors to the default landscape orientation (0 degrees).
+- F14: Rotate Monitor 1 between landscape (0 degrees) and portrait (90 degrees).
+- F15: Rotate Monitor 2 between landscape (0 degrees) and portrait (90 degrees).
+- F16: Rotate Monitor 3 between landscape (0 degrees) and portrait (90 degrees).
+- F17: Rotate Monitor 4 between landscape (0 degrees) and portrait (90 degrees).
 
 ## Requirements
 Python: Version 3.6 or higher.
