@@ -1,6 +1,9 @@
 # Screen Rotation Utility
 A Python utility that enables quick rotation of monitors using special keyboard keys (F13 - F17) for rotating multiple screens in 90-degree increments. Designed to work with Nvidia video cards and supports multiple monitors.
 
+It's made because of the following forum troubleshot:
+<https://answers.microsoft.com/en-us/windows/forum/all/ctrl-alt-arrow-keys-dont-rotate-the-screen-at-all/2fcb575d-2323-4fad-9fdb-63a274f886ca>
+
 ## Features
 Rotate monitors between landscape and portrait modes with a single key press.
 Supports up to four monitors, each mapped to different hotkeys.
